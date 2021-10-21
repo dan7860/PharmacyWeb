@@ -2,7 +2,7 @@
 
 # Web App for administrating Pharmacy Android App 
 
-This web app is used to manage orders ordered by the [Pharmacy Android App](https://github.com/Arkanayan/Pharmacy-Android)
+This web app is used to manage orders ordered by the [Pharmacy Android App](https://github.com/dan7860/pharmacyapp)
 
 ## Features
 * Single Page Application(SPA) using Angular 2
